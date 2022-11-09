@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 import Controller.ProdutosController;
-=======
+
 import Model.Produtos;
 import Model.Vendas;
->>>>>>> main
+
 
 import java.text.ParseException;
 import java.util.InputMismatchException;
